@@ -17,12 +17,12 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamada-Ryo-1356&theme=tokyonight" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandRone&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://streak-stats.demolab.com?user=Yamada-Ryo-1356&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yamada-Ryo-1356&theme=tokyonight" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=SandRone&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandRone&theme=tokyonight" />
 </p>
 
 <br/>
