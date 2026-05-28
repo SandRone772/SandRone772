@@ -1,7 +1,7 @@
-<h1 align="center">Yamada-Ryo / 山田凉</h1>
+<h1 align="center">SandRone / 木偶</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:5b21b6&height=190&section=header&text=Yamada-Ryo&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Java%20%7C%20C%2B%2B%20%7C%20Minecraft%20%7C%20Bocchi%20the%20Rock!&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:5b21b6&height=190&section=header&text=SandRone&fontColor=ffffff&fontSize=54&animation=fadeIn&desc=Java%20%7C%20C%2B%2B%20%7C%20Minecraft%20%7C%20Bocchi%20the%20Rock!&descAlignY=70&descSize=18" />
 </p>
 
 <p align="center">
